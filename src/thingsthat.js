@@ -69,10 +69,7 @@ ThingsThat.prototype.window = {
     },
 
     unlockScroll : function() {
-
-        document.documentElement
-        el.setAttribute('data-foo', 'Hello World!');
-        
+ 
         // un-lock scroll position
         var scrollPosition = document.documentElement.getAttribute('scroll-position');
         document.documentElement.style.overflow = document.documentElement.getAttribute('previous-overflow');
