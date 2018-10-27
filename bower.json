@@ -8,7 +8,6 @@
   ],
   "license": "MIT",
   "homepage": "https://thingsthat.com",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
