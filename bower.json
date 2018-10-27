@@ -1,0 +1,22 @@
+{
+  "name": "thingsthatjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Jack Prosser <jack@thingsthat.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://thingsthat.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "package-lock.json",
+    "package.json",
+    "src",
+    "gulpfile.js"
+  ]
+}
