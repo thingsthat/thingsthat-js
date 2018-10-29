@@ -1,8 +1,7 @@
 {
   "name": "thingsthatjs",
   "version": "1.0.2",
-  "description": "",
-  "main": "",
+  "main": "dist/thingsthat.min.js",
   "authors": [
     "Jack Prosser <jack@thingsthat.com>"
   ],
